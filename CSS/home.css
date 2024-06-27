@@ -160,7 +160,7 @@ a{
     color: rgb(159, 158, 158);
 }
 #cards{
-    margin-left: 2px;
+    margin: 10px;
     width: 290px;
     display: inline-block;
 }
@@ -176,6 +176,8 @@ li{
     border-style: solid rgb(231, 229, 229);
     height: 30px;
     width: 240px;
+    margin-right: 20px;
+    margin-left: -20px;
     
 }
 #c10:hover{
